@@ -104,14 +104,4 @@ http://localhost:5173
 4. Ensure mock JSON files are included
 5. Commit & push
 
----
 
-## 📄 License
-
-This project is for educational and assignment purposes.
-
----
-
-## 👤 Author
-
-Karan Gholap
